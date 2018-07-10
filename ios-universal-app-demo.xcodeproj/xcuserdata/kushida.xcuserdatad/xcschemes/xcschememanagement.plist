@@ -4,10 +4,33 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>ios-universal-app-demo.xcscheme</key>
+		<key>ios-universal-ipad-demo.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>ios-universal-iphone-demo.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>C58801B320F420A40047CADF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C58801C720F420A60047CADF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C58801D720F420B90047CADF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
